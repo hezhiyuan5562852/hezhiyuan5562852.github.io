@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezhiyuan5562852.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-04T02:50:21.999Z</updated>
+    <title>cocos</title>
+    <updated>2020-08-04T02:53:56.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hezhiyuan5562852.github.io"/>
     <link rel="self" href="https://hezhiyuan5562852.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://hezhiyuan5562852.github.io/images/avatar.png</logo>
     <icon>https://hezhiyuan5562852.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, cocos</rights>
+    <entry>
+        <title type="html"><![CDATA[刘欣欣是蠢蛋]]></title>
+        <id>https://hezhiyuan5562852.github.io/post/liu-xin-xin-shi-chun-dan/</id>
+        <link href="https://hezhiyuan5562852.github.io/post/liu-xin-xin-shi-chun-dan/">
+        </link>
+        <updated>2020-08-04T02:53:02.000Z</updated>
+        <content type="html"><![CDATA[<p>刘欣欣是蠢蛋</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刘欣欣是大撒比]]></title>
         <id>https://hezhiyuan5562852.github.io/post/liu-xin-xin-shi-da-sa-bi/</id>
